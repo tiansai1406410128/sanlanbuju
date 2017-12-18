@@ -1,0 +1,50 @@
+
+
+.div01 {
+	background-color: #eee;
+	height: 500px;
+	border:1px solid #999;
+}
+
+.div02 {
+	width: 205px;
+	height: 160px;
+	border:1px solid #999;
+	position: absolute;
+	top: 29px;
+	left: 29px;
+}
+
+.div03 {
+	height: 400px;
+	margin:20px 160px 100px 240px;
+	
+	border:1px solid #999;
+}
+
+.div04 {
+
+	width: 120px;
+	height: 440px;
+	border:1px solid #999;
+	position: absolute;
+	top: 29px;
+	right: 29px;
+	
+}
+
+img {
+	border:1px solid #999;
+	margin: 20px 0 0 20px;
+}
+
+p {
+	margin: 20px 20px 0 20px;
+}
+
+span {
+	display: block;
+	position: absolute;
+	top:20px;
+	right: 20px;
+}
